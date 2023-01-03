@@ -1,0 +1,1 @@
+{"version":1,"defects":{"queryTest::testSelect":3,"queryTest::testHitung":3,"queryTest::testInsert":3},"times":{"queryTest::testSelect":0.016,"queryTest::testHitung":0.006,"queryTest::testInsert":0.011}}
